@@ -1,1 +1,1 @@
-A plugin to remove whitespace at end of line when saving.   
+A plugin to easily open and edit your vimrc.  Your vimrc is sourced when you save.
